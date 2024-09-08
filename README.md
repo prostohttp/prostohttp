@@ -1,16 +1,14 @@
-## Hi there 👋
+###  Добый день 🇷🇺
 
-<!--
-**prostohttp/prostohttp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Меня зовут Михаил, рад с тобой познакомиться 🤝
 
-Here are some ideas to get you started:
+Я веб разработчик с 2013 года.</br>
+Долго занимался исключительно версткой под wordpress и opencart, немного bitrix</br>
+Пробовал dart, flutter, php, swift.</br>
+Люблю изучать новое.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ Сейчас работаю с:  `javascript`, `typescript`, `vue`, `nuxt`, `nodejs`, `express`, `nestjs`, `html`,`css`, `tailwind`, `github 😀`, `figma`
+- 🌍 Немного: `react`
+- 💅 Отдеплоино: [Monito pets](https://monito-pets-vue3.netlify.app), [Россграм](https://rossgram-vue3.netlify.app/), [Табличка](https://data-table-vue3.netlify.app/), код в закрепах ниже.
+- 💅 Кодю: [Фулстак, админка nuxt 3, фронт vue, бек nest](https://github.com/prostohttp/kicks), остальные закрепленные репозитории
+- 💬 Нахохусь в поиске удаленной работы: **Фронтенд на vue**, **фулстак vue + nest, express**
