@@ -7,7 +7,7 @@
 Пробовал dart, flutter, php, swift.</br>
 Люблю изучать новое.
 
-- ⚙️ Сейчас работаю с:  `javascript`, `typescript`, `vue`, `nuxt`, `nodejs`, `express`, `nestjs`, `REST`, `GraphQL`, `html`,`css`, `tailwind`, `github 😀`, `figma`
+- ⚙️ Сейчас работаю с:  `JavaScript`, `TypeScript`, `Vue.js`, `Nuxt`, `Node.js`, `Express`, `NestJS`, `REST`, `GraphQL`, `Html`,`Css`, `Tailwind`, `GitHub 😀`, `Figma`
 - ⛮ Немного: `react`
 - ✅ Сделано - Фронтенд: [Monito pets](https://monito-pets-vue3.netlify.app), [Россграм](https://rossgram-vue3.netlify.app/), [Табличка](https://data-table-vue3.netlify.app/), код в закрепах ниже.
 - ✅ Сделано - Бэкенд: [Nestjs REST API](https://github.com/prostohttp/diplom-nest-hotel-api), [Express REST API](https://github.com/prostohttp/course-ndse-delivery)
