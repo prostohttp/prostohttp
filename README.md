@@ -11,5 +11,5 @@
 - ⛮ Немного: `react`
 - ✅ Сделано - Фронтенд: [Monito pets](https://monito-pets-vue3.netlify.app), [Россграм](https://rossgram-vue3.netlify.app/), [Табличка](https://data-table-vue3.netlify.app/), код в закрепах ниже.
 - ✅ Сделано - Бэкенд: [Nestjs REST API](https://github.com/prostohttp/diplom-nest-hotel-api), [Express REST API](https://github.com/prostohttp/course-ndse-delivery)
-- ✅ В процессе ~ 33％  [Фулстак: админка - nuxt 3, фронт - vue, бек - nest, бд - mongo](https://github.com/prostohttp/kicks)
+- ✅ В процессе ~ 40％  [Фулстак: админка - nuxt 3, фронт - vue, бек - nest, бд - mongo](https://github.com/prostohttp/kicks)
 - 💼 Нахожусь в поиске удаленной работы: **Frontend на Vue.js**, **Fullstack Vue.js + NestJS, Express**
