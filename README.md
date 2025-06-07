@@ -15,6 +15,6 @@
 
 ---
 💼 Нахожусь в поиске удаленной работы:
-- **Frontend на Vue.js**,
-- **Fullstack - Laravel (TALL Stack, InertiaJS, Laravel API + Vue**,
-- **Fullstack Vue.js + NestJS, Express**
+- **Frontend на Vue.js** (middle)
+- **Fullstack - Laravel (TALL Stack, InertiaJS, Laravel API + Vue** (junior)
+- **Fullstack Vue.js + NestJS, Express** (junior)
