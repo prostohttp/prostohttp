@@ -19,7 +19,7 @@
 
 ### Вёрстка и дизайн
 - Tailwind CSS — экспертный уровень
-- Отличное знание HTML/CSS, pixel-perfect вёрстка
+- Отличное знание HTML/CSS, pixel-perfect вёрстка, препроцессоры, БЭМ
 - Работа с макетами в Figma, адаптив и кроссбраузерность
 - Использование UI-библиотек: `shadcn/ui`, `Nuxt UI` и др.
 
@@ -41,7 +41,7 @@
 
 `Vite`, `Vitest`, `ESLint`, `Prettier`, `PostCSS`, `Volar`, `i18n`, `Zod`, `Axios`,  
 `Supabase`, `Prisma`, `Drizzle`, `Redis`, `PM2`, `Nginx`
-- ✅ Сделано - Фронтенд: [Monito pets](https://monito-pets-vue3.netlify.app), [Россграм](https://rossgram-vue3.netlify.app/), [Табличка](https://data-table-vue3.netlify.app/), код в закрепах ниже.
+- ✅ Сделано - Фронтенд: [Kelnik фильтр](https://kelnik-filter.vercel.app/), [Monito pets](https://monito-pets-vue3.netlify.app), [Россграм](https://rossgram-vue3.netlify.app/), [Табличка](https://data-table-vue3.netlify.app/), код в закрепах ниже.
 - ✅ Сделано - Бэкенд: [Nestjs REST API](https://github.com/prostohttp/diplom-nest-hotel-api), [Express REST API](https://github.com/prostohttp/course-ndse-delivery)
 - ✅ В процессе ~ 40％  [Фулстак: админка - nuxt 3, фронт - vue, бек - nest, бд - mongo](https://github.com/prostohttp/kicks)
 
