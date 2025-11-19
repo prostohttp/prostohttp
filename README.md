@@ -46,7 +46,7 @@
 `Supabase`, `Prisma`, `Drizzle`, `Redis`, `PM2`, `Nginx`
 - ✅ Сделано - Фронтенд: [Kelnik фильтр (Nuxt 4)](https://kelnik-filter.vercel.app/), [Monito pets (Vue 3)](https://monito-pets-vue3.netlify.app), [Россграм (Vue 3 *из России доступ с VPN)](https://rossgram-vue3.netlify.app/), [Табличка (Vue 3)](https://data-table-vue3.netlify.app/), код в закрепах ниже.
 - ✅ Сделано - Бэкенд: [Nestjs REST API](https://github.com/prostohttp/diplom-nest-hotel-api), [Express REST API](https://github.com/prostohttp/course-ndse-delivery)
-- ✅ В процессе ~ 40％  [Фулстак: админка - nuxt 3, фронт - vue, бек - nest, бд - mongo](https://github.com/prostohttp/kicks)
+- ✅ В процессе - [Kicks Marketplace frontend (Nuxt 4 + FSD)](https://github.com/prostohttp/kicks-nuxt-fsd-directus-frontend), [Фулстак: админка - nuxt 3, фронт - vue, бек - nest, бд - mongo](https://github.com/prostohttp/kicks)
 
 ---
 💼 Нахожусь в поиске удаленной работы:
