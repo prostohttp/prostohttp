@@ -1,66 +1,54 @@
-Привет! Меня зовут Михаил, я фронтенд-разработчик с более чем **10-летним опытом вёрстки** и более **5 лет работаю с Vue 3** и современным стеком JavaScript/TypeScript. Последние **2 года** активно развиваюсь как **fullstack-разработчик на Nuxt 3**, где пишу как клиентскую, так и серверную часть приложения.
+# Морозов Михаил | Frontend Developer (Vue.js/Nuxt.js) | Middle
+
+**Местоположение:** Россия 🇷🇺 | **Формат работы:** Удаленно  
+**Контакты:** [VK](https://vk.com/morozov_mike) | [GitHub](https://github.com/prostohttp) | localhost:3000
 
 ---
 
-## 🧠 Ключевые навыки и технологии
+## Профессиональная сводка
 
-### Vue 3 (Composition API, TypeScript, Pinia, Vue Router)
-- Опыт работы с `unplugin-vue-router`, модульным подходом и динамической генерацией маршрутов
-- Реализация сложных UI/UX, валидации, форм, загрузки файлов и обработки ошибок
-
-### Nuxt 3 (Fullstack)
-- Аутентификация и регистрация
-- Отправка email, SSR, устранение проблем гидратации
-- Работа с REST API, server routes, middlewares
-- Валидация на беке, создание BFF
-
-### Архитектура, тестирование и качество
-- Опыт работы с FSD
-- Опыт с unit-тестами (в том числе с Vite-плагинами и Vitest)
-- Валидация на фронте с использованием Zod и кастомных решений
-
-
-### Вёрстка и дизайн
-- Tailwind CSS — экспертный уровень
-- Отличное знание HTML/CSS, препроцессоры (SCSS), шаблонизаторы (Blade, Twig, Pug), БЭМ
-- Работа с макетами в Figma, адаптив и кроссбраузерность
-- Использование UI-библиотек:  `Quasar`, `shadcn/ui`, `Nuxt UI` и др.
-
-### Бэкенд и DevOps (базовые знания)
-- Node.js, Express.js, NestJS
-- Laravel (в том числе работа с Eloquent ORM)
-- Docker (базовая настройка)
-- Swagger, GraphQL (начальный уровень)
-- Работа с базами данных: MySQL, PostgreSQL, MongoDB
-
-### Дополнительно
-- Опыт работы с WebSocket
-- Настройка ESLint, Prettier, commit hooks
-- Git, CI/CD, GitHub Actions (начальный опыт)
+Frontend-разработчик с **10+ годами** коммерческого опыта вёрстки и **5+ годами** разработки на Vue.js 3/TypeScript. Специализируюсь на создании масштабируемых SPA и SSR-приложений с использованием Nuxt 3. Последние 2 года активно развиваюсь как Fullstack-разработчик, реализуя серверную логику, API и интеграции с базами данных. Имею опыт работы с Feature-Sliced Design, тестированием и оптимизацией производительности.
 
 ---
 
-## 🛠 Инструменты, с которыми знаком
+## Ключевые навыки
 
-`Vite`, `Vitest`, `ESLint`, `Prettier`, `PostCSS`, `Volar`, `i18n`, `Zod`, `Axios`,  
-`Supabase`, `Prisma`, `Drizzle`, `Redis`, `PM2`, `Nginx`
-- ✅ Сделано frontend:
-  --
-- [Kelnik фильтр (Nuxt 4)](https://kelnik-filter.vercel.app/)
-- [Monito pets (Vue 3)](https://monito-pets-vue3.netlify.app)
-- [Россграм (Vue 3 *из России доступ с VPN)](https://rossgram-vue3.netlify.app/)
- -[Табличка (Vue 3)](https://data-table-vue3.netlify.app/)
-- ✅ Сделано backend:
-  --
-- [Nestjs REST API](https://github.com/prostohttp/diplom-nest-hotel-api)
-- [Express REST API](https://github.com/prostohttp/course-ndse-delivery)
-- ✅ В процессе:
-  --
-- [Kicks Marketplace frontend (Nuxt 4 + FSD)](https://github.com/prostohttp/kicks-nuxt-fsd-directus-frontend)
-- [Фулстак: админка - nuxt 3, фронт - vue, бек - nest, бд - mongo](https://github.com/prostohttp/kicks)
+### Frontend Core
+`Vue 3` • `Nuxt 3` • `TypeScript` • `JavaScript ES6+` • `Composition API` • `Pinia` • `Vuex` • `Vue Router` • `unplugin-vue-router`
+
+### Styling & UI
+`Tailwind CSS` • `SCSS/SASS` • `BEM` • `CSS3/HTML5` • `Responsive Design` • `Quasar` • `shadcn/ui` • `Nuxt UI` • `Figma`
+
+### State & Data Management
+`REST API` • `Axios` • `Fetch API` • `WebSocket` • `GraphQL` (basic) • `Zod` (validation)
+
+### Architecture & Testing
+`Feature-Sliced Design (FSD)` • `Vitest` • `Unit Testing` • `Modular Architecture` • `Component-Driven Development`
+
+### Backend & DevOps
+`Node.js` • `Express.js` • `NestJS` • `Nuxt Server Routes` • `Middleware` • `Laravel` • `Eloquent ORM` • `MySQL` • `PostgreSQL` • `MongoDB` • `Prisma` • `Drizzle` • `Supabase` • `Redis` • `Docker` • `Nginx` • `PM2`
+
+### Tools & Workflow
+`Vite` • `Git` • `GitHub Actions` • `ESLint` • `Prettier` • `PostCSS` • `i18n` • `Swagger` • `CI/CD`
 
 ---
-💼 Нахожусь в поиске удаленной работы:
-- **Frontend на Vue.js** (middle)
-- **Fullstack - Laravel (TALL Stack, InertiaJS, Laravel API + Vue** (junior)
-- **Fullstack Vue.js + NestJS, Express** (junior)
+
+## Проекты (Portfolio)
+
+### [Kelnik Filter](https://kelnik-filter.vercel.app/) | Nuxt 4
+**Стек:** Nuxt 4, TypeScript, Composition API, Tailwind CSS  
+**Описание:** Интерактивная система фильтрации с динамической подгрузкой данных и серверным рендерингом для SEO-оптимизации.
+
+### [Monito Pets](https://monito-pets-vue3.netlify.app/) | Vue 3
+**Стек:** Vue 3, Vue Router, Pinia, TypeScript, Responsive Design  
+**Описание:** SPA для поиска домашних питомцев с фильтрацией, сортировкой и детальными карточками. Реализована глобальная система управления состоянием.
+
+### [Россграм](https://rossgram-vue3.netlify.app/) | Vue 3 (доступ с VPN)
+**Стек:** Vue 3, Composition API, REST API Integration, Axios  
+**Описание:** Социальная сеть-клон Instagram с авторизацией, лентой постов, загрузкой изображений и комментированием.
+
+### [Data Table App](https://data-table-vue3.netlify.app/) | Vue 3
+**Стек:** Vue 3, TypeScript, Dynamic Tables, Sorting/Filtering  
+**Описание:** Компонент таблицы данных с продвинутой фильтрацией, сортировкой, пагинацией и экспортом в CSV.
+
+### [Kicks Marketplace](https://github.com/prostohttp/kicks-nuxt-fsd-di
