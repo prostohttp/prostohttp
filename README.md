@@ -1,7 +1,6 @@
 # Морозов Михаил | Frontend Developer (Vue.js/Nuxt.js) | Middle
 
 **Местоположение:** Россия 🇷🇺 | **Формат работы:** Удаленно  
-**Контакты:** [VK](https://vk.com/morozov_mike) | [GitHub](https://github.com/prostohttp) | localhost:3000
 
 ---
 
@@ -35,7 +34,7 @@ Frontend-разработчик с **10+ годами** коммерческог
 
 ## Проекты (Portfolio)
 
-### [Kelnik Filter](https://kelnik-filter.vercel.app/) | Nuxt 4
+### [Kelnik Filter](https://kelnik-filter.vercel.app/) | Nuxt 3
 **Стек:** Nuxt 4, TypeScript, Composition API, Tailwind CSS  
 **Описание:** Интерактивная система фильтрации с динамической подгрузкой данных и серверным рендерингом для SEO-оптимизации.
 
@@ -51,4 +50,6 @@ Frontend-разработчик с **10+ годами** коммерческог
 **Стек:** Vue 3, TypeScript, Dynamic Tables, Sorting/Filtering  
 **Описание:** Компонент таблицы данных с продвинутой фильтрацией, сортировкой, пагинацией и экспортом в CSV.
 
-### [Kicks Marketplace](https://github.com/prostohttp/kicks-nuxt-fsd-di
+### [Kicks Marketplace](https://github.com/prostohttp/kicks-nuxt-fsd-directus-frontend)  | Nuxt 3 frontend  | Directus CMS backend
+**Стек:** Nuxt 4, TypeScript, FSD, Pinia-colada, SCSS, БЭМ.
+**Описание:** Полнофунциональный интернет магазин, с регистрацией, авторизацией, ЛК, сохраняющейся в БД корзиной, фильтрами, оформлением заказа, избранным
