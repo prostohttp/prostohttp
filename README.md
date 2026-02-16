@@ -34,7 +34,7 @@ Frontend-разработчик с **10+ годами** коммерческог
 
 ## Проекты (Portfolio)
 
-### [Kicks Marketplace](https://github.com/prostohttp/kicks-nuxt-fsd-directus-frontend)  | Nuxt 3 frontend  | Directus CMS backend
+### [Kicks Marketplace](https://github.com/prostohttp/kicks-nuxt-fsd-directus-frontend)  | Nuxt 4 frontend  | Directus CMS backend
 **Стек:** Nuxt 4, TypeScript, FSD, Pinia-colada, SCSS, БЭМ.
 **Описание:** Полнофунциональный интернет магазин, с регистрацией, авторизацией, ЛК, сохраняющейся в БД корзиной, фильтрами, оформлением заказа, избранным
 
